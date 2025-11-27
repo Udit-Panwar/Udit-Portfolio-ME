@@ -187,13 +187,13 @@ export default function About() {
               </div>
               <span className="text-gray-300 text-lg">The Entrepreneurship Network</span>
             </div> */}
-            <div className="relative pl-8 border-l-4 border-blue-500/50 hover:border-blue-500 transition-all duration-300">
+           <div className="relative pl-8 border-l-4 border-blue-500/50 hover:border-blue-500 transition-all duration-300">
               <div className="absolute -left-2.5 top-0 w-4 h-4 bg-blue-500 rounded-full shadow-lg shadow-blue-500/50"></div>
               <div className="flex flex-col lg:flex-row lg:justify-between lg:items-start mb-2">
-                <span className="font-bold text-2xl text-white">Mechanical Design Tutor</span>
+                <span className="font-bold text-2xl text-white">CAD/CAM Engineering Trainee</span>
                 <span className="text-sm text-blue-300 bg-blue-500/10 px-3 py-1 rounded-full mt-2 lg:mt-0 w-fit">January 1, 2025 - Present</span>
               </div>
-              <span className="text-gray-300 text-lg">Self Coaching Center</span>
+              <span className="text-gray-300 text-lg">CADCAM Engineering Academy</span>
             </div>
 
 
@@ -263,4 +263,5 @@ export default function About() {
       `}</style>
     </section>
   );
+
 }
